@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Recycler View Riama</string>
+    <string name="heroes_name">Super Hero</string>
+    <string name="description">description</string>
+</resources>
